@@ -29,7 +29,7 @@ Increased accessibility and cross-device support
 
 Professional looks appropriate for educational settings
 
-Note : For implementaion of task 1 check: task1_implementaion.md 
+Note : For implementaion of task 1 check: task1_implementaion.pdf
 
 Task 2: AI Debugging Assistant Prompt Design
 File: Python Screening Task 2.pdf
