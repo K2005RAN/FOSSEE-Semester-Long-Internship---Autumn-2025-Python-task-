@@ -4,16 +4,16 @@ This repository holds my submission for the FOSSEE internship application proces
 
 Repository Structure
 text
-├── Task_1_UI_UX_Redesign/                # Submission for Task 1
-│   ├── workshop_booking/                 # Source code for Django project
-│   ├── README_Implementation.md          # Implementation and setup guide
-├── Python Screening Task 2.pdf           # Task 2 submission: AI Debugging Assistant Prompt
-└── Python Screening Task 3.pdf           # Open Source Model Evaluation submission for Task 3
-└── FOSSEE_Tasks_Documentation.md         #(This document)
+├── Python Screening Task 1: UI/UX Enhancement.zip        # Submission for Task 1           
+     ├──workshop_booking _master                          #codes related to website
+     ├──Reasoning                                         #Reasons behind changes 
+├── Python Screening Task 2.pdf                           # Task 2 submission: AI Debugging Assistant Prompt
+└── Python Screening Task 3.pdf                           # Open Source Model Evaluation submission for Task 3
+└── FOSSEE_Tasks_Documentation.md                         #(This document)
                            
 Task Completion Summary
 Task 1: UI/UX Redesign
-Directory: Task_1_UI_UX_Redesign/
+Directory: Python Screening Task 1 UIUX Enhancement.zip  
 
 Objective: Improve the user experience and interface of a workshop booking system.
 
@@ -28,6 +28,8 @@ Enhanced instructor and coordinator user flow
 Increased accessibility and cross-device support
 
 Professional looks appropriate for educational settings
+
+Note : For implementaion of task 1 check: task1_implementaion.md 
 
 Task 2: AI Debugging Assistant Prompt Design
 File: Python Screening Task 2.pdf
